@@ -10,11 +10,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.SweetHome"
+        android:theme="@style/Theme.SweetHome.NoActionBar"
         tools:targetApi="31">
         <activity
-            android:name=".WelcomeActivity"
-            android:exported="false">
+            android:name=".NavegationActivity"
+            android:exported="false"
+            android:label="@string/title_activity_navegation"
+            android:theme="@style/Theme.SweetHome.NoActionBar">
             <meta-data
                 android:name="android.app.lib_name"
                 android:value="" />
