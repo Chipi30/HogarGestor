@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Swee tHome</string>
-    <string name="hintUser">ejemplo@email.com</string>
+    <string name="hintUser">example@email.com</string>
     <string name="register">Register</string>
     <string name="welcomeText">Welcome</string>
+    <string name="user">User</string>
     <string name="regIntro">Welcome to the Sweet Home portal, please complete the fields below to proceed with your registration:</string>
     <string name="name">Name</string>
     <string name="lastName">LastName</string>
@@ -14,24 +15,10 @@
     <string name="regPrivacy">I have read and accept the terms and privacy policies.</string>
     <string name="text1">Accompaniment, advice and economic support for family strengthening.</string>
     <string name="who_are_we">Who are we?</string>
+    <string name="errorText">invalid username or password</string>
     <string name="who_are_we_text">The Sweet Home is a modality of restoration of rights that consists of accompaniment, advice and economic support for family strengthening, this measure applies to families that have the conditions for the care, affection and attention of children under 18 years of age with disabilities.</string>
     <string name="What_do_we_do">What do we do?</string>
     <string name="What_do_we_do_text">This type of care offers beneficiary families tools to improve the care of their children with disabilities, in their housing conditions, as well as enhances their management capacity for the use of institutional, social and community service networks, which facilitate the exercise of their rights.</string>
-    <string name="title_activity_navegation">NavegationActivity</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">Sweet Home</string>
-    <string name="second_fragment_label">Sweet Home</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
 </resources>
 

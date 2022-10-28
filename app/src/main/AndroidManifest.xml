@@ -13,15 +13,6 @@
         android:theme="@style/Theme.SweetHome"
         tools:targetApi="31">
         <activity
-            android:name=".NavegationActivity"
-            android:exported="false"
-            android:label="@string/title_activity_navegation"
-            android:theme="@style/Theme.SweetHome.NoActionBar">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".WelcomeActivity"
             android:exported="false">
             <meta-data
