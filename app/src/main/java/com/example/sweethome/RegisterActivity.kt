@@ -104,7 +104,7 @@ class RegisterActivity : AppCompatActivity() {
             validate = false
         } else if (!text_Pattern.matcher(nameInput.replace(" ", "")).matches()) {
             userName!!.error = "Nombre no valido"
-            validate = false
+            validate= false
         } else userName!!.error = null
 
         if (TextUtils.isEmpty(userLastName!!.text.toString())) {
